@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ronaldosilitonga/kasir-tea-testnet.git"
   },
-  "author": "ronaldosilitonga",
+  "author": "novaliere",
   "dependencies": {
     "kasir": "1.1.4"
   },
