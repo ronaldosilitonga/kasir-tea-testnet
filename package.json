@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronaldosilitonga/kasir-tea-testnet.git"
+    "url": "git+https://github.com/ronaldosilitonga/kasir-tea-testnet"
   },
   "author": "ronaldosilitonga",
   "dependencies": {
