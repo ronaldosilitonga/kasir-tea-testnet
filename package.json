@@ -1,0 +1,22 @@
+{
+  "name": "@ronaldosilitonga/kasir-tea-testnet",
+  "version": "1.0.0",
+  "description": "LOL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldosilitonga/kasir-tea-testnet.git"
+  },
+  "author": "ronaldosilitonga",
+  "dependencies": {
+    "kasir": "1.1.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldosilitonga/kasir-tea-testnet/issues"
+  },
+  "homepage": "https://github.com/ronaldosilitonga/kasir-tea-testnet#readme"
+}
